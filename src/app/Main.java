@@ -20,5 +20,5 @@ public class Main {
     private static double convPoundsToKgs(double pnds) {
         return pnds / CONV_K;
     }
-
+//шоршщ
 }
